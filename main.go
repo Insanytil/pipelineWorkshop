@@ -5,7 +5,7 @@ func main() {
 }
 
 func Add(a int, b int) int {
-	return a + a + a
+	return a + a +a 
 }
 
 func Sub(a int, b int) int {
